@@ -1,0 +1,8 @@
+prefix=/home/jason/ROStest/devel
+
+Name: opencvExercise
+Description: Description of opencvExercise
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/jason/ROStest/devel/lib 
+Requires: 

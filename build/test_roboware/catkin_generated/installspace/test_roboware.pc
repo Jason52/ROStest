@@ -1,0 +1,8 @@
+prefix=/home/jason/ROStest/install
+
+Name: test_roboware
+Description: Description of test_roboware
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/jason/ROStest/install/lib 
+Requires: 

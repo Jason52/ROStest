@@ -1,0 +1,8 @@
+prefix=/home/jason/ROStest/install
+
+Name: read_image
+Description: Description of read_image
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/jason/ROStest/install/lib 
+Requires: 

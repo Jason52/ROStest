@@ -1,0 +1,2 @@
+my_image_transport:opencvExercise:topic_demo
+-DCATKIN_DEVEL_PREFIX=/home/jason/ROStest/devel -DCMAKE_INSTALL_PREFIX=/home/jason/ROStest/install -G Unix Makefiles

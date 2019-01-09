@@ -1,0 +1,8 @@
+prefix=/home/jason/ROStest/devel
+
+Name: topic_demo
+Description: Description of topic_demo
+Version: 0.0.0
+Cflags: -I/home/jason/ROStest/devel/include
+Libs: -L/home/jason/ROStest/devel/lib 
+Requires: 
